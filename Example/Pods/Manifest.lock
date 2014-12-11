@@ -1,0 +1,14 @@
+PODS:
+  - SIAHash (0.1.0)
+
+DEPENDENCIES:
+  - SIAHash (from `../`)
+
+EXTERNAL SOURCES:
+  SIAHash:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIAHash: ae73a8aac8b2c718dcc2298762920967d68e4e31
+
+COCOAPODS: 0.35.0
